@@ -1,0 +1,7 @@
+.thumbnail{
+    border-radius: 1000px;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    overflow: hidden;
+}
